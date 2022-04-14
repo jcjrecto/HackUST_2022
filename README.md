@@ -1,1 +1,1 @@
-# HackUST_2022
+# HackUST 2022
